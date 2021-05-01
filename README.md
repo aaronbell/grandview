@@ -8,4 +8,5 @@ Grandview is one of five new fonts being considered as a [replacement for Calibr
 As we move forward with the competition, there will be an opportunity to improve Grandview and make it work even better than it does today. To that extent, this repository will serve as a central location to provide feedback and discuss anything related to Grandview.
 
 Sample text in Grandview
+
 <img width="699" alt="Screen Shot 2021-04-30 at 9 30 50 PM" src="https://user-images.githubusercontent.com/8460297/116770849-60273600-a9fb-11eb-8fdc-cf9cebc36af4.png">
