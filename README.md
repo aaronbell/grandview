@@ -6,3 +6,6 @@ Grandview is a sans serif typeface derived from the [DIN](https://en.wikipedia.o
 Grandview is one of five new fonts being considered as a [replacement for Calibri](https://www.microsoft.com/en-us/microsoft-365/blog/2021/04/28/beyond-calibri-finding-microsofts-next-default-font/). Thank you all for your support and comments!
 
 As we move forward with the competition, there will be an opportunity to improve Grandview and make it work even better than it does today. To that extent, this repository will serve as a central location to provide feedback and discuss anything related to Grandview.
+
+Sample text in Grandview
+<img width="699" alt="Screen Shot 2021-04-30 at 9 30 50 PM" src="https://user-images.githubusercontent.com/8460297/116770849-60273600-a9fb-11eb-8fdc-cf9cebc36af4.png">
